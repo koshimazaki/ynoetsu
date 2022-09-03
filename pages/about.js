@@ -63,7 +63,7 @@ His projects were presented on events such as Tokyo Festival of Modular; Stockho
 </p>
 
 
-  <Button fixed style={{margin: 10}} href="/words" secondary>Continue your journey</Button>
+  <Button fixed style={{margin: 10}} href="/select" secondary>Continue your journey</Button>
 
   </>
   );

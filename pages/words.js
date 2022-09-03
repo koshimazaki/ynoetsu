@@ -14,7 +14,7 @@ const words2 = ['Word4', 'Word5', 'Word6'];
   return (
     <>
     <Segment inverted vertical > 
-<p>  </p>
+<p fixed style={{margin: 80}} > Select a word or phrase to start the video, each choice generates a unique audio visual sequence. </p>
 <Container>
        
         <Grid divided inverted stackable style={{ padding: "5em 0em" }} >

@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head fixed style={{margin: 20}}>
-        <title>ynoetsu</title>
+        <title fixed style={{margin: 20}} >ynoetsu</title>
         <link rel="icon" href="/favicon.ico" />
         
       </Head>
