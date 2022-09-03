@@ -70,11 +70,24 @@ h1, h3, h2, h4 {
     padding: 15px ;
   }
 
+  h6 {
+    font-size: 15px;
+    font-style: italic;
+    font-family: Arial;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 15px ;
+
+  }
 
   p {
     margin-left: 10px;
-    margin-right: 10px;
+    margin-right: 50px;
+    line-height: 1.8;
+    font-size: 15px;
   }
+
+
 
         footer {
           width: 100%;
