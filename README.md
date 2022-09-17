@@ -33,6 +33,7 @@ ynoetsu by Emelihter Kihleng, Hinemoana Baker, Radek Rudnicki, Abhay Adhikari an
 #### Funded by the Digital Culture Programme of the German Federal Cultural Foundation and the Digital Culture Programme of the German Federal Cultural Foundation.
 <picture>
  <source media="(prefers-color-scheme: light)" srcset="https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FKSB_KulturDigital.186780d3.png&w=1200&q=75")>
+ <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
  </picture>
  
 ![logo1](https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FKSB_KulturDigital.186780d3.png&w=1200&q=75)
