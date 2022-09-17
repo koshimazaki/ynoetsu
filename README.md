@@ -30,12 +30,10 @@ Audiovisual experience designer, sound and new media artist. He received interna
 ## Licensing
 ynoetsu by Emelihter Kihleng, Hinemoana Baker, Radek Rudnicki, Abhay Adhikari and Übersee-Museum Bremen is licensed under [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-#### Funded by the Digital Culture Programme of the German Federal Cultural Foundation and the Digital Culture Programme of the German Federal Cultural Foundation.
-<picture>
- <source media="(prefers-color-scheme: light)" srcset="https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FKSB_KulturDigital.186780d3.png&w=1200&q=75")>
- <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
- </picture>
- 
-![logo1](https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FKSB_KulturDigital.186780d3.png&w=1200&q=75)
+#### Funded by the Digital Culture Programme of the German Federal Cultural Foundation. 
+
+![logo1](https://github.com/koshimazaki/ynoetsu/blob/main/public/images/KDB_logo_white.png)
+
+#### Funded by the Federal Government Commissioner for Culture and Media.
 
 ![logo2](https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FBKM_bw.0ba0b54a.png&w=1920&q=75)
