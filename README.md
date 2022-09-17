@@ -34,6 +34,6 @@ ynoetsu by Emelihter Kihleng, Hinemoana Baker, Radek Rudnicki, Abhay Adhikari an
 
 ![logo1](https://github.com/koshimazaki/ynoetsu/blob/main/public/images/KDB_logo_white.png)
 
-### Funded by the Federal Government Commissioner for Culture and Media.
+#### Funded by the Federal Government Commissioner for Culture and Media.
 
 ![logo2](https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FBKM_bw.0ba0b54a.png&w=1920&q=75)
