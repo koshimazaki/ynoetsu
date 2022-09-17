@@ -123,8 +123,7 @@ Funded by the Digital Culture Programme of the German Federal Cultural Foundatio
       <a>
           <Image
             src={logo2}
-            alt="Funded by the Digital Culture Programme
-            of the German Federal Cultural Foundation"
+            alt="Funded by the Federal Government Commissioner for Culture and Media"
           />
     </a>
   </Link>
