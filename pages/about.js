@@ -105,7 +105,7 @@ ynoetsu by Emelihter Kihleng, Hinemoana Baker, Radek Rudnicki, Abhay Adhikari an
 </p>
 
 <h4>
-Funded by the Digital Culture Programme of the German Federal Cultural Foundation and the Digital Culture Programme of the German Federal Cultural Foundation.
+Funded by the Digital Culture Programme of the German Federal Cultural Foundation and by the Federal Government Commissioner for Culture and Media.
 </h4>
 
 
