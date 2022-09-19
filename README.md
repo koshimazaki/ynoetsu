@@ -30,10 +30,10 @@ ynoetsu by Emelihter Kihleng, Hinemoana Baker, Radek Rudnicki, Abhay Adhikari an
 
 This prototype was developed as part of the [NEO Collections](https://medium.com/neocollections) project.
 
-#### Funded by the Digital Culture Programme of the German Federal Cultural Foundation. 
+#### Funded by the [Digital Culture Programme](https://www.kulturstiftung-des-bundes.de/en/programmes_projects/film_and_new_media/detail/digital_culture.html) of the German Federal Cultural Foundation. 
 
-![logo1](https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FKSB_KulturDigital.d13ee300.png&w=828&q=75)
+![logo1](https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FKSB_KulturDigital.d13ee300.png)
 
-#### Funded by the Federal Government Commissioner for Culture and the Media.
+#### Funded by the [Federal Government Commissioner for Culture and the Media](https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien).
 
-![logo2](https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FBKM_Farbe.60a4883c.png&w=1080&q=75)
+![logo2](https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FBKM_Farbe.60a4883c.png)
