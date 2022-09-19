@@ -14,8 +14,6 @@ ynoetsu is an interactive collection of poems presented as mixed media pieces in
 
 The audience is taken on a journey browsing phrases from the poems. These phrases and words are used as metadata. Output is in the form of generative semi-random mixed media. Each piece has multiple versions of media mixed and sliced, such as: text, author's voice, ambient sound, video of the author and the environment where the objects from the collection are coming from. Presented works are focused on emotional impact. Pseudo-randomness bypasses hierarchy and provides a unique experience to the audience.
 
-This prototype was developed as part of the [NEO Collections](https://medium.com/neocollections) project. Funded by the [Digital Culture Programme](https://www.kulturstiftung-des-bundes.de/en/programmes_projects/film_and_new_media/detail/digital_culture.html) of the [Kulturstiftung des Bundes](https://www.kulturstiftung-des-bundes.de/en) (German Federal Cultural Foundation). Funded by the [Beauftragte der Bundesregierung für Kultur und Medien](https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien) (Federal Government Commissioner for Culture and the Media).
-
 ## Artists
 
 ### Emelihter Kihleng
@@ -30,10 +28,12 @@ Audiovisual experience designer, sound and new media artist. He received interna
 ## Licensing
 ynoetsu by Emelihter Kihleng, Hinemoana Baker, Radek Rudnicki, Abhay Adhikari and Übersee-Museum Bremen is licensed under [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
+This prototype was developed as part of the [NEO Collections](https://medium.com/neocollections) project.
+
 #### Funded by the Digital Culture Programme of the German Federal Cultural Foundation. 
 
 ![logo1](https://github.com/koshimazaki/ynoetsu/blob/main/public/images/KDB_logo_white.png)
 
-#### Funded by the Federal Government Commissioner for Culture and Media.
+#### Funded by the Federal Government Commissioner for Culture and the Media.
 
 ![logo2](https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FBKM_bw.0ba0b54a.png&w=1920&q=75)
