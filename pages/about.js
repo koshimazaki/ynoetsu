@@ -103,7 +103,7 @@ This prototype was developed as part of the
 
 
 <h4>
-Funded by the Digital Culture Programme of the German Federal Cultural Foundation and by the Federal Government Commissioner for Culture and the Media.
+Funded by the Digital Culture Programme of the German Federal Cultural Foundation. Funded by the Federal Government Commissioner for Culture and the Media.
 </h4>
 
 
