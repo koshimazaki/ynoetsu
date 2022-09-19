@@ -4,7 +4,7 @@ import styled from 'styled-components'
 
 
 import logo1 from '../public/images/KSB_KulturDigital.png'
-import logo2 from '../public/images/BKM_bw.png'
+import logo2 from '../public/images/BKM_Farbe.png'
 
 
 import {Button} from 'semantic-ui-react'
@@ -49,18 +49,6 @@ The audience is taken on a journey browsing phrases from the poems. These phrase
 </p>
 
 
-<p>
-
-This prototype was developed as part of the  
-
-<Link fixed style={{inverted:true}} href={"https://medium.com/neocollections"} passHref> 
-<BoldLink>  NEO Collections project. </BoldLink> 
-</Link> 
-
-Funded by the Digital Culture Programme of the Kulturstiftung des Bundes (German Federal Cultural Foundation). Funded by the Beauftragte der Bundesregierung für Kultur und Medien (Federal Government Commissioner for Culture and the Media).
-
-</p>
-
 <h3>Artists</h3>
 
 <h4>
@@ -101,8 +89,18 @@ ynoetsu by Emelihter Kihleng, Hinemoana Baker, Radek Rudnicki, Abhay Adhikari an
 <BoldLink> CC BY SA 4.0.</BoldLink> 
 </Link> 
 
+</p>
+
+<p>
+
+This prototype was developed as part of the  
+
+<Link fixed style={{inverted:true}} href={"https://medium.com/neocollections"} passHref> 
+<BoldLink>  NEO Collections project. </BoldLink> 
+</Link> 
 
 </p>
+
 
 <h4>
 Funded by the Digital Culture Programme of the German Federal Cultural Foundation and by the Federal Government Commissioner for Culture and Media.
@@ -123,7 +121,7 @@ Funded by the Digital Culture Programme of the German Federal Cultural Foundatio
       <a>
           <Image
             src={logo2}
-            alt="Funded by the Federal Government Commissioner for Culture and Media"
+            alt="Funded by the Federal Government Commissioner for Culture and the Media"
           />
     </a>
   </Link>
