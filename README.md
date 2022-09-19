@@ -32,8 +32,8 @@ This prototype was developed as part of the [NEO Collections](https://medium.com
 
 #### Funded by the Digital Culture Programme of the German Federal Cultural Foundation. 
 
-![logo1](https://github.com/koshimazaki/ynoetsu/blob/main/public/images/KDB_logo_white.png)
+![logo1](https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FKSB_KulturDigital.d13ee300.png&w=828&q=75)
 
 #### Funded by the Federal Government Commissioner for Culture and the Media.
 
-![logo2](https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FBKM_bw.0ba0b54a.png&w=1920&q=75)
+![logo2](https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FBKM_Farbe.60a4883c.png&w=1080&q=75)
