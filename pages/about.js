@@ -85,7 +85,7 @@ Licensing
 ynoetsu by Emelihter Kihleng, Hinemoana Baker, Radek Rudnicki, Abhay Adhikari and Übersee-Museum Bremen is licensed under 
 
 
-<Link fixed style={{inverted:true}} href={"https://www.kulturstiftung-des-bundes.de/de"} passHref> 
+<Link fixed style={{inverted:true}} href={"https://creativecommons.org/licenses/by-sa/4.0/"} passHref> 
 <BoldLink> CC BY SA 4.0.</BoldLink> 
 </Link> 
 
