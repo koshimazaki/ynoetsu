@@ -32,8 +32,8 @@ This prototype was developed as part of the [NEO Collections](https://medium.com
 
 #### Funded by the [Digital Culture Programme](https://www.kulturstiftung-des-bundes.de/en/programmes_projects/film_and_new_media/detail/digital_culture.html) of the German Federal Cultural Foundation. 
 
-![logo1](https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FKSB_KulturDigital.848607ea.png&w=640&q=75)
+![logo1](https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FKSB_KulturDigital.848607ea.png&w=640&q=100)
 
 #### Funded by the [Federal Government Commissioner for Culture and the Media](https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien).
 
-![logo2](https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FBKM_Farbe.616f3ad7.png&w=640&q=75)
+![logo2](https://ynoetsu-ten.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FBKM_Farbe.616f3ad7.png&w=640&q=100)
