@@ -44,12 +44,12 @@ export default function FormFunction() {
       word5,
       textBefore,
       textAfter,
-      chosenVideo
+      chosenVideo,
 
     }
     log("ALL", AllData)
 
-    const rawResponse = await fetch('/api/Submit', {
+    const rawResponse = await fetch('/api/submit', {
       method: 'POST',
       headers: {
           'Accept': 'application/json',
