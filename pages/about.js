@@ -9,6 +9,9 @@ import logo2 from '../public/images/BKM_Farbe.png'
 
 import {Button} from 'semantic-ui-react'
 
+const ContentContainer = styled.div`
+  padding: 10px;
+`;
 
 const BoldLink = styled.a`
   color: black;
@@ -18,9 +21,11 @@ const BoldLink = styled.a`
 export default function About() {
 
     return (
-        <>
+      <ContentContainer style={{ margin: 10 }}>
+    
 
 <h1>About</h1>
+
 
 <h3>The Project: 'you need our eyes to see us'</h3>
 
@@ -85,7 +90,12 @@ Licensing
 ynoetsu by Emelihter Kihleng, Hinemoana Baker, Radek Rudnicki, Abhay Adhikari and Übersee-Museum Bremen is licensed under 
 
 
-<Link fixed style={{inverted:true}} href={"https://creativecommons.org/licenses/by-sa/4.0/"} passHref> 
+<Link
+fixed
+style={{inverted:true}}
+href={"https://creativecommons.org/licenses/by-sa/4.0/"}
+passHref
+legacyBehavior> 
 <BoldLink> CC BY SA 4.0.</BoldLink> 
 </Link> 
 
@@ -95,7 +105,12 @@ ynoetsu by Emelihter Kihleng, Hinemoana Baker, Radek Rudnicki, Abhay Adhikari an
 
 This prototype was developed as part of the  
 
-<Link fixed style={{inverted:true}} href={"https://medium.com/neocollections"} passHref> 
+<Link
+fixed
+style={{inverted:true}}
+href={"https://medium.com/neocollections"}
+passHref
+legacyBehavior> 
 <BoldLink>  NEO Collections project. </BoldLink> 
 </Link> 
 
@@ -108,31 +123,30 @@ Funded by the Digital Culture Programme of the German Federal Cultural Foundatio
 
 
 <Link href="https://www.kulturstiftung-des-bundes.de/de">
-      <a>
-          <Image
-             src={logo1}
-             alt="Funded by the Digital Culture Programme
-             of the German Federal Cultural Foundation"
-          />
-    </a>
-  </Link>
 
-  <Link href="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">
-      <a>
-          <Image
-            src={logo2}
-            alt="Funded by the Federal Government Commissioner for Culture and the Media"
-          />
-    </a>
-  </Link>
+<Image
+ src={logo1}
+ alt="Funded by the Digital Culture Programme
+ of the German Federal Cultural Foundation"
+/>
+
+</Link>
+
+<Link href="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">
+
+<Image
+  src={logo2}
+  alt="Funded by the Federal Government Commissioner for Culture and the Media"
+/>
+
+</Link>
 
 <p>
 
 </p>
 
-  <Button fixed style={{margin: 10}} href="/select" secondary>Continue your journey</Button>
+<Button fixed style={{margin: 10}} href="/select" secondary>Continue your journey</Button>
 
-  </>
+</ContentContainer>
   );
-
 }

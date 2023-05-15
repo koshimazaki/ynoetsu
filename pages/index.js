@@ -79,14 +79,28 @@ presented in a video format.</p>
       </main>
 
        <footer>
-        <a
+ 
+       <a
+          href="/imprint"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         <h3> Imprint |{' '}</h3>
+     
+        </a>
+
+        <a 
           href="/about"
           target="_blank"
           rel="noopener noreferrer"
         >
          <h3> About{' '}</h3>
      
-        </a>
+        </a >
+
+      
+
+
       </footer>
 
       <style jsx>{`
