@@ -118,7 +118,7 @@ return (
       <p style={{ margin: 10 }}>How you felt before watching the video? </p>
 
 
-      <TextArea fixed style={{ margin: 10 }} placeholder='Please tell us how you felt before watching the video, or just type few words describing your feelings.'
+      <TextArea  style={{ margin: 10 }} placeholder='Please tell us how you felt before watching the video, or just type few words describing your feelings.'
 
         value={textBefore}
         onChange={({ target }) => setTextBefore(target?.value)}
@@ -127,20 +127,24 @@ return (
       <p style={{ margin: 10 }}>How did this piece make you feel? </p>
 
 
-      <TextArea fixed style={{ margin: 10 }} placeholder='Please tell us how did this piece make you feel, or just type few words that came to your mind.'
+      <TextArea  style={{ margin: 10 }} placeholder='Please tell us how did this piece make you feel, or just type few words that came to your mind.'
 
         value={textAfter}
         onChange={({ target }) => setTextAfter(target?.value)}
       />
 
+<<<<<<< Updated upstream
       <Button onClick={handleSubmit} fixed style={{ margin: 10 }} href="" primary>Submit
+=======
+      <Button onClick={handleSubmit} style={{ margin: 10 }} href="" primary>Submit
+>>>>>>> Stashed changes
 
 
       </Button>
 
-      <Button fixed style={{ margin: 1 }} href="/select" secondary>Continue your journey</Button>
+      <Button  style={{ margin: 1 }} href="/select" secondary>Continue your journey</Button>
 
-      <Button fixed style={{ margin: 1 }} href="/about" secondary>Find out more about the project</Button>
+      <Button  style={{ margin: 1 }} href="/about" secondary>Find out more about the project</Button>
       
       <Message
       success
