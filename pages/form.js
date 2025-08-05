@@ -133,11 +133,7 @@ return (
         onChange={({ target }) => setTextAfter(target?.value)}
       />
 
-<<<<<<< Updated upstream
-      <Button onClick={handleSubmit} fixed style={{ margin: 10 }} href="" primary>Submit
-=======
       <Button onClick={handleSubmit} style={{ margin: 10 }} href="" primary>Submit
->>>>>>> Stashed changes
 
 
       </Button>

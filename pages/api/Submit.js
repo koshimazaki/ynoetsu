@@ -12,12 +12,8 @@ async function handler (req, res ) {
     const body = req.body
 
     try {
-
-<<<<<<< Updated upstream
+        // add spreadsheet ID to env as well !!!
         const spreadsheetId = "1SlIwR-61hKRamDN-7WTqlESWl2zzJteX3_JEAwCdk8Y"
-=======
-    // add spreadsheet ID to env as well !!!
->>>>>>> Stashed changes
 
         const auth = new google.auth.GoogleAuth({
             credentials: {
