@@ -1,0 +1,5 @@
+node_modules/
+.next/
+.next-old/
+.DS_Store
+.env.local
